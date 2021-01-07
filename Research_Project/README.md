@@ -13,9 +13,9 @@ This repository contains the development code used for creation of the Fuel Econ
 
 ### Actions
 - Data was downloaded from FuelEconomy.gov....<<TODO>>
-    - *See References*
+    - [Raw Data](1_FuelEconomyData_Raw.csv "FuelEconomy.gov Download")
 - CSV was opened in Microsoft Excel with no direct manipulation beyond converting data to table format
-    - *See [Microsoft Excel Code](https://github.com/mcvanderbilt/USD-ADS500A/blob/main/Research_Project/Microsoft%20Excel%20Code.pq "GitHub Code")*
+    1. [Microsoft Excel Code](2A_MSExcel_FuelEconomy_Raw.pq "GitHub Code")
 - 
 
 ### Code Steps
