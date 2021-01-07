@@ -17,8 +17,8 @@ This repository contains the development code used for creation of the Fuel Econ
     - [Raw Data](1_FuelEconomyData_Raw.csv "FuelEconomy.gov Download")
 - CSV was opened in Microsoft Excel with no direct manipulation beyond converting data to table format
     1. [Import raw data](2A_MSExcel_FuelEconomy_Raw.pq "2A_MSExcel_FuelEconomy_Raw.pq")
-    2. [Create emissions category](2B_MSExcel_Index_EmissionsType.pq "2B_MSExcel_Index_EmissionsType.pq")
-    3. [Create fuel type category](2C_MSExcel_Index-FuelType.pq "2C_MSExcel_Index_FuelType.pq)
+    2. [Create emissions category](2B_MSExcel_Index-EmissionsType.pq "2B_MSExcel_Index-EmissionsType.pq")
+    3. [Create fuel type category](2B_MSExcel_Index-FuelType.pq "2B_MSExcel_Index-FuelTypeType.pq")
     4. [Create make category](2D_MSExcel_Index-Make.pq "2D_MSExcel_Index-Make.pq")
     5. [Create transmission type category](2E_MSExcel_Index-TransmissionType.pq "2E_MSExcel_Index-TransmissionType.pq")
     6. [Create vehicle type category](2F_MSExcel_Index-VehicleType.pq "2F_MSExcel_Index-VehicleType.pq")
