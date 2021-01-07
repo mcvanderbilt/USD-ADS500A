@@ -24,9 +24,9 @@ This repository contains the development code used for creation of the Fuel Econ
 
 
 ### General References
-American Psychological Association. (2019). *Adapting a dissertation or thesis into a journal article*. APA Style. https://apastyle.apa.org/style-grammar-guidelines/research-publication/dissertation-thesis
-American Psychological Association. (2020a). *Publication manual of the American Psychological Association* (7th ed.). American Psychological Association.
-American Psychological Association. (2020b). *Abstract and keywords guide* (7th ed.). American Psychological Association. https://apastyle.apa.org/instructional-aids/abstract-keywords-guide.pdf
-American Psychological Association. (2020c). *JARS-Quant | Table 1 Information recommended for inclusion in manuscripts that report new data collections regardless of research design*. American Psychological Association. https://apastyle.apa.org/jars/quant-table-1.pdf
-American Psychological Association. (2020d). *JARS-Quant | Table 3 Reporting standards for nonexperimental studies using no experimental manipulation*. American Psychological Association. https://apastyle.apa.org/jars/quant-table-3.pdf
-American Psychological Association. (2020e). *JARS-Quant | Table 8 Reporting standards for studies using Bayesian techniques*. American Psychological Association. https://apastyle.apa.org/jars/quant-table-8.pdf
+- American Psychological Association. (2019). *Adapting a dissertation or thesis into a journal article*. APA Style. https://apastyle.apa.org/style-grammar-guidelines/research-publication/dissertation-thesis
+- American Psychological Association. (2020a). *Publication manual of the American Psychological Association* (7th ed.). American Psychological Association.
+- American Psychological Association. (2020b). *Abstract and keywords guide* (7th ed.). American Psychological Association. https://apastyle.apa.org/instructional-aids/abstract-keywords-guide.pdf
+- American Psychological Association. (2020c). *JARS-Quant | Table 1 Information recommended for inclusion in manuscripts that report new data collections regardless of research design*. American Psychological Association. https://apastyle.apa.org/jars/quant-table-1.pdf
+- American Psychological Association. (2020d). *JARS-Quant | Table 3 Reporting standards for nonexperimental studies using no experimental manipulation*. American Psychological Association. https://apastyle.apa.org/jars/quant-table-3.pdf
+- American Psychological Association. (2020e). *JARS-Quant | Table 8 Reporting standards for studies using Bayesian techniques*. American Psychological Association. https://apastyle.apa.org/jars/quant-table-8.pdf
