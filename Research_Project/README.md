@@ -49,3 +49,11 @@ These footnotes are copied in verbatim from U.S. Department of Energy (2020).
     > 10. Fuel prices for E85, LPG, and CNG are from the Office of Energy Efficiency and Renewable Energy's Alternative Fuel Price Report and are updated quarterly.
     > 11. For electric and CNG vehicles this number is MPGe (gasoline equivalent miles per gallon).
     (U.S. Department of Energy, 2020)
+
+    Blockquotes
+*   This is the first list item.
+*   Here's the second list item.
+
+    > A blockquote would look great below the second list item.
+
+*   And here's the third list item.
