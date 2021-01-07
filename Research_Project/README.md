@@ -51,8 +51,6 @@ These footnotes are copied in verbatim from U.S. Department of Energy (2020).
     (U.S. Department of Energy, 2020)
 
     Blockquotes
-*   This is the first list item.
-*   Here's the second list item.
 
     > A blockquote would look great below the second list item.
 
