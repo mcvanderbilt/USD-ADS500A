@@ -11,17 +11,13 @@ This repository contains the development code used for creation of the Fuel Econ
 - Microsoft Excel for Microsoft Office 365 (64-bit)
 - SAS Enterprise Guide 7.1 (64-bit)
 
+### Data Source
+- 
 
-
-
-
-
-
-
-
-
-
-
+### Code Steps
+1. Data cleanup in Microsoft Excel PowerQuery M-language
+2. Distribution fitting in MatLab R2020b
+3. Statistical analysis in SAS Enterprise Guide 7.1
 
 ### General References
 - American Psychological Association. (2019). *Adapting a dissertation or thesis into a journal article*. APA Style. https://apastyle.apa.org/style-grammar-guidelines/research-publication/dissertation-thesis
