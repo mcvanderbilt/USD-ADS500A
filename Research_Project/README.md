@@ -37,7 +37,7 @@ This repository contains the development code used for creation of the Fuel Econ
 
 ### Footnotes
 These footnotes are copied in verbatim from U.S. Department of Energy (2020).
-    > 1. 1 barrel = 42 gallons. Petroleum consumption is estimated using the Department of Energy's GREET model and includes petroleum consumed from production and refining to distribution and final use. Vehicle manufacture is excluded.
+    > (1) 1 barrel = 42 gallons. Petroleum consumption is estimated using the Department of Energy's GREET model and includes petroleum consumed from production and refining to distribution and final use. Vehicle manufacture is excluded.
     > 2. The MPG estimates for all 1985-2007 model year vehicles and some 2011-2016 model year vehicles have been updated. 
     > 3. Unrounded MPG values are not available for some vehicles.
     > 4. This field is only used for blended PHEV vehicles.
