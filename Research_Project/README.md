@@ -25,6 +25,7 @@ This repository contains the development code used for creation of the Fuel Econ
     6. [Create vehicle type category](2F_MSExcel_Index-VehicleType.pq "2F_MSExcel_Index-VehicleType.pq")
     7. [Combined data to final table](2G_MSExcel_FuelEconomy_Final.pq "2G_MSExcel_FuelEconomy_Final.pq")
 - Final Excel table was imported to MatLab for distribution curve fitting; applied distribution utilized for educational purposes
+- Final Excel table was imported to SAS for statistical analysis
 
 ### General References
 - American Psychological Association. (2019). *Adapting a dissertation or thesis into a journal article*. APA Style. https://apastyle.apa.org/style-grammar-guidelines/research-publication/dissertation-thesis
@@ -46,4 +47,5 @@ This repository contains the development code used for creation of the Fuel Econ
      8. Interior volume dimensions are not required for two-seater passenger cars or any vehicle classified as truck which includes vans, pickups, special purpose vehicles, minivan and sport utility vehicles.
      9. Fuel prices for gasoline and diesel fuel are from the Energy Information Administration and are usually updated weekly.
      10. Fuel prices for E85, LPG, and CNG are from the Office of Energy Efficiency and Renewable Energy's Alternative Fuel Price Report and are updated quarterly.
-     11. For electric and CNG vehicles this number is MPGe (gasoline equivalent miles per gallon). (U.S. Department of Energy, 2020)
+     11. For electric and CNG vehicles this number is MPGe (gasoline equivalent miles per gallon).
+(U.S. Department of Energy, 2020)
