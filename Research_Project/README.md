@@ -11,7 +11,11 @@ This repository contains the development code used for creation of the Fuel Econ
 - Microsoft Excel for Microsoft Office 365 (64-bit)
 - SAS Enterprise Guide 7.1 (64-bit)
 
-### Data Source
+### Actions
+- Data was downloaded from FuelEconomy.gov....<<TODO>>
+    - *See References*
+- CSV was opened in Microsoft Excel with no direct manipulation beyond converting data to table format
+    - *See [Microsoft Excel Code](https://github.com/mcvanderbilt/USD-ADS500A/blob/main/Research_Project/Microsoft%20Excel%20Code.pq "GitHub Code")*
 - 
 
 ### Code Steps
@@ -26,3 +30,4 @@ This repository contains the development code used for creation of the Fuel Econ
 - American Psychological Association. (2020c). *JARS-Quant | Table 1 Information recommended for inclusion in manuscripts that report new data collections regardless of research design*. American Psychological Association. https://apastyle.apa.org/jars/quant-table-1.pdf
 - American Psychological Association. (2020d). *JARS-Quant | Table 3 Reporting standards for nonexperimental studies using no experimental manipulation*. American Psychological Association. https://apastyle.apa.org/jars/quant-table-3.pdf
 - American Psychological Association. (2020e). *JARS-Quant | Table 8 Reporting standards for studies using Bayesian techniques*. American Psychological Association. https://apastyle.apa.org/jars/quant-table-8.pdf
+- U.S. Department of Energy. (2020, December). *FuelEconomy.gov web services*. https://www.fueleconomy.gov/feg/ws/index.shtml
