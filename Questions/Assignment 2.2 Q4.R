@@ -2,13 +2,17 @@
 # -- University of San Diego                                             --
 # -- ADS500A: Probability & Statistics for Data Science                  --
 # -- Prof. Matthew C. Vanderbilt, MSBA                                   --
+# --                                                                     --
+# -- SOME CODE IS ADAPTED FROM MICROSOFT COPILOT PROMTS                  --
 # -------------------------------------------------------------------------
-# -- This code was generated for Question 4: "What CO2 GPM is such that  --
+# -- This code was generated for Question 4: What CO2 GPM is such that   --
 # -- only 3% of all vehicles exceed that level of pollution?" to show    --
 # -- the difference between using the theoretical methodology based on   --
 # -- the observed mean and standard deviation vs. the empirical method   --
 # -- using Microsoft Excel's PERCENTILE.EXC function on the actual data. --
 # -------------------------------------------------------------------------
+# VERSION 202509171140
+
 
 # INSTALL & LOAD NECESSARY PACKAGES ---------------------------------------
 
@@ -18,10 +22,29 @@
 # library() function.
 
 libraries <- c(                  # -- CREATE A VECTOR OF DESIRED LIBRARIES
+  #"broom",                       # extracts lm information
+  #"car",                         # vif function
+  #"corrplot",
   "dplyr",
+  #"glue",                        # enables dynamic strings
   "ggplot2",
+  #"httr",                        # NOTE PURPOSE
+  #"jsonlite",                    # NOTE PURPOSE
+  #"kableExtra",                  # formats tables
+  #"knitr",                       # formats tables (includes kable)
   "mosaic",                       # contains favstats() + many others
+  #"nortest",                     # Anderson-Darling test of normality
+  #"openxlsx",                    # reading and writing from and to Excel
+  #"plotly",                      # used for 3d plots
+  #"purrr",                       # elegant loops
+  #"random",                      # use of Random.org
   "readxl"
+  #"scales",                      # elegant loops and stdcoef; currency formatting
+  #"supernova",
+  #"tibble",
+  #"tidyr",
+  #"tidyverse",                   # REMOVE LIBRARIES THAT ARE ALREADY IN TIDYVERSE
+  #"truncnorm"                    # NOTE PURPOSE
 )
 
 for (
