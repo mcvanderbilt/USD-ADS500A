@@ -3,7 +3,7 @@
 # -- ADS500A: Probability & Statistics for Data Science                  --
 # -- Prof. Matthew C. Vanderbilt, MSBA                                   --
 # --                                                                     --
-# -- SOME CODE IS ADAPTED FROM MICROSOFT COPILOT PROMTS                  --
+# -- SOME CODE IS ADAPTED FROM MICROSOFT COPILOT PROMPTS                 --
 # -------------------------------------------------------------------------
 # VERSION 202509171219
 
